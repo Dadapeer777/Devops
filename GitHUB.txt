@@ -1,0 +1,2 @@
+git remote -v   ->   This will list the current remote repositories and their URLs.
+  
